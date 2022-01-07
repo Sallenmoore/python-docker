@@ -5,3 +5,4 @@ A simple Docker container with python installed
 
 ### run interactively
 * docker run -it --name <image> <image> /bin/bash 
+* docker build . -t <image>
